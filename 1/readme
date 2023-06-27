@@ -1,0 +1,2 @@
+gcc main.c 81.c
+./a
